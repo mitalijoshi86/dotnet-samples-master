@@ -1,0 +1,15 @@
+/test-results/**
+**/test-results/**
+.DS_Store
+.vs
+.vscode
+**/bin/**
+**/obj/**
+**/*/.gitignore
+**/*/.DS_Store
+**/.dotnet/**
+**/.local/**
+**/.nuget/**
+/packages/**
+/TestResults/**
+**/PublishProfiles/**
